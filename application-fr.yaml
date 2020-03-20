@@ -1,0 +1,4 @@
+language: fr_FR
+translations:
+  SF.DPC.relaunch: Relancer
+  SF.DPC.stop: Stop

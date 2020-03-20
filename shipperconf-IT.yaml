@@ -1,0 +1,26 @@
+---
+labels:
+  translations:
+    EN:
+      SF__DPC__relaunch:
+        ticket_number: "3433"
+        value: "toto"
+      SF__DPC__stop:
+        ticket_number: "3433"
+        value: "Stop"
+    FR:
+      SF__DPC__relaunch:
+        ticket_number: "3433"
+        value: "Relancer"
+  well_formatted_translations:
+    EN:
+      SF.DPC.stop:
+        ticket_number: "3433"
+        value: "Stop"
+      SF.DPC.relaunch:
+        ticket_number: "3433"
+        value: "toto"
+    FR:
+      SF.DPC.relaunch:
+        ticket_number: "3433"
+        value: "Relancer"
