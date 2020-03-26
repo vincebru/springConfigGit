@@ -1,2 +1,3 @@
 ---
-code: "velocity content"
+velocity:
+  code: "velocity content"
